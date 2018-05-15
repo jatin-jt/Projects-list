@@ -1,6 +1,6 @@
-Projects list:
+#Projects list:
 
-1.Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
+1. Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
 https://archive.ics.uci.edu/ml/datasets/Adult
 
 2. Spam classifier
@@ -15,7 +15,7 @@ http://cs231n.github.io/convolutional-networks/
 5. google street view house numbers
 http://ufldl.stanford.edu/housenumbers/
 
-//6. Newsgroups dataset
+6. Newsgroups dataset
 http://qwone.com/~jason/20Newsgroups/
 
 7. Titanic dataset
