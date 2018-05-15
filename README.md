@@ -1,32 +1,22 @@
 # Projects list:
 
-1. Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
-https://archive.ics.uci.edu/ml/datasets/Adult
+1. [Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.](https://archive.ics.uci.edu/ml/datasets/Adult)
 
-2. Spam classifier
-https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73
+2. [Spam classifier](https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73)
 
-3. Integrating MNIST to android app
-https://hackernoon.com/my-first-steps-in-deep-learning-recognising-handwritten-digits-f72e72936ea4
+3. [Integrating MNIST to android app](https://hackernoon.com/my-first-steps-in-deep-learning-recognising-handwritten-digits-f72e72936ea4)
 
-4. CNN notebook
-http://cs231n.github.io/convolutional-networks/
+4. [CNN notebook](http://cs231n.github.io/convolutional-networks/)
 
-5. google street view house numbers
-http://ufldl.stanford.edu/housenumbers/
+5. [Google street view house numbers](http://ufldl.stanford.edu/housenumbers/)
 
-6. Newsgroups dataset
-http://qwone.com/~jason/20Newsgroups/
+6. [Newsgroups dataset](http://qwone.com/~jason/20Newsgroups/)
 
-7. Titanic dataset
-https://www.kaggle.com/c/titanic
+7. [Titanic dataset](https://www.kaggle.com/c/titanic)
 
-8. NASA shuttle
-https://archive.ics.uci.edu/ml/datasets/Statlog+%28Shuttle%29
+8. [NASA shuttle](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Shuttle%29)
 
-
-10. Auto-colorization
-
+9. Auto-colorization
 Github:
 https://github.com/shekkizh/Colorization.tensorflow
 https://github.com/cameronfabbri/Colorful-Image-Colorization
@@ -45,26 +35,18 @@ http://cs231n.stanford.edu/reports/2017/pdfs/302.pdf
 http://cs231n.stanford.edu/reports/2017/pdfs/409.pdf
 
 
-11. will he buy what telemarketer offers or not
-http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+10. [Will he buy what telemarketer offers or not](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 
-12. bankrupt?
-http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
+11. [bankrupt?](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data)
 
-13. Predicting number of shares
-http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity 
+12. [Predicting number of shares on an article](http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity)
 
-14. is Room occupied based on CO2 and other stats
-http://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+
+13. [Is Room occupied based on CO2 and other stats](http://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+)
 
-14. Predict geographic location of music
-http://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music
+14. [Predict geographic location of music](http://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music)
 
-15. Predict DOTA winners
-http://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results
+15. [Predict DOTA winners](http://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results)
 
-16. Bumper US diabetes
-http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
+16. [Bumper US diabetes](http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008)
 
-17.Game-playing(Connect 4)
-http://archive.ics.uci.edu/ml/datasets/Connect-4
+17. [Game-playing(Connect 4)](http://archive.ics.uci.edu/ml/datasets/Connect-4)
